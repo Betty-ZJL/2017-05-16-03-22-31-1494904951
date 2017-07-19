@@ -1,4 +1,4 @@
-module.exports = function main() {
+module.exports = function main(nums) {
     var num_list=['._.   ...   ._.   ._.   ...   ._.   ._.   ._.   ._.   ._. ','|.|   ..|   ._|   ._|   |_|   |_.   |_.   ..|   |_|   |_| ','|_|   ..|   |_.   ._|   ..|   ._|   |_|   ..|   |_|   ..| '];
     var list='';
     for(let i=0;i<3;i++){
